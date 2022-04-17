@@ -22,7 +22,8 @@ Redirects: 5.81%
 Sfb: 1.058% | 0.823%
 Dsfb: 6.026%
 Lsb: 1.63%
-In-roll ratio: 1.54```
+In-roll ratio: 1.54
+```
 
 I also uploaded the layout here because my friend told me to **(warning furry content)**
 https://www.furaffinity.net/view/46824938/?upload-successful
