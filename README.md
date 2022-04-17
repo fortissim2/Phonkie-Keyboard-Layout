@@ -1,5 +1,7 @@
 # Phonkie-Keyboard-Layout
 
+```
 q l m p b  z f u o y
 r n t h d  c s e a i /
 j x v k ;  w g ' . ,
+```
