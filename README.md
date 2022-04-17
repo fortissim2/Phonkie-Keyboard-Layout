@@ -22,7 +22,8 @@ I have no clue how to use GitHub sooooooooooo enjoy my layout :)
 
 ## Statistics
 **Stats from https://bit.ly/keyboard-layouts-doc:**
-```Rolls: 46.15%
+```
+Rolls: 46.15%
 Alternates: 39.97%
 Onehands: 1.90%
 Redirects: 5.81%
@@ -32,7 +33,8 @@ Lsb: 1.63%
 In-roll ratio: 1.54
 ```
 **Stats from Genkey (https://semilin.github.io/genkey/):**
-```Phonkie
+```
+Phonkie
 q l m p b  z f u o y
 r n t h d  c s e a i /
 j x v k ;  w g ' . ,
@@ -68,19 +70,22 @@ Huge thanks to my friend **ec0vid** for providing these stats for me! :)
 
 ## History
 Here's the first iteration of the Phonkie layout (originally named "phonky"):
-```z m l w f  k b u o y
+```
+z m l w f  k b u o y
 r h n s g  p t e a i ;
 j , q c x  v d ' . /
 ```
 The `NL` bigram could easily be alted (same as `DE` on QWERTY, N with left index and L with left middle), as well as SC (S with left middle and C with left index). However, I quickly found out that there weren't a lot of left-hand inward rolls, so I decided to alter the home row a little bit to put S with the vowels.
 Soon after, I created this:
-```/ l m d b  x f u o y
+```
+/ l m d b  x f u o y
 r n t h p  g s e a i ;
 j q v k z  c w ' . ,
 ```
 I thought this was a big improvement from last time, the left hand looked extremely promising (`TH`, `NT`, `RN` inward rolls) and `NL` was still altable (N with left middle). I also did a cycle between the `/`, `z` and `;` keys, although that didn't do much to improve the stats.
 I didn't notice the `XC` bigram for words like "except", "excitement", etc. so I did some more minor swaps to get the final result:
-```q l m p b  z f u o y
+```
+q l m p b  z f u o y
 r n t h d  c s e a i /
 j x v k ;  w g ' . ,
 ```
