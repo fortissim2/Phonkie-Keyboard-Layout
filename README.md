@@ -1,4 +1,4 @@
-# Phonkie-Keyboard-Layout
+# Phonkie Keyboard Layout
 
 ```
 q l m p b  z f u o y
